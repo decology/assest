@@ -1,6 +1,6 @@
 {
   "name": "DsmeWorld Community",
-  "logoURI": "https://www.dsme.world/swap/src/constants/list.png",
+  "logoURI": "https://assets.dsme.world/token-list/dsme/tokenlist.png",
   "keywords": [
     "audited",
     "verified",
@@ -46,15 +46,26 @@
       "symbol": "DSME",
       "name": "Meta-StarDream Along RainBow",
       "decimals":6,
-      "logoURI": "https://www.dsme.vip/swap/src/constants/dsme.png",
+      "logoURI": "https://assets.dsme.world/token-info/ethereum/0xdc38a8732f236e8F3E993775F0a68b7126a67e3C/logo.png",
       "tags": [
-        "decology"
+        "dsme"
+      ]
+    },
+    {
+      "chainId": 128,
+      "address": "0xdc38a8732f236e8f3e993775f0a68b7126a67e3c",
+      "symbol": "DSME",
+      "name": "Meta-StarDream Along RainBow",
+      "decimals":18,
+      "logoURI": "https://assets.dsme.world/token-info/heco/0xdc38a8732f236e8f3e993775f0a68b7126a67e3c/logo.png",
+      "tags": [
+        "dsme"
       ]
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 12
+    "patch": 14
   }
 }
