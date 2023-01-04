@@ -14,6 +14,10 @@
     "compound": {
       "name": "Compound Finance",
       "description": "Tokens that earn interest on compound.finance"
+    },
+    "dsmeworld": {
+      "name": "DsmeWorld Community",
+      "description": "Go online through community voting"
     }
   },
   "timestamp": "2020-06-12T00:00:00+00:00",
@@ -48,24 +52,35 @@
       "decimals":6,
       "logoURI": "https://assets.dsme.world/token-info/ethereum/0xdc38a8732f236e8F3E993775F0a68b7126a67e3C/logo.png",
       "tags": [
-        "dsme"
+        "dsmeworld"
       ]
     },
     {
       "chainId": 128,
-      "address": "0xdc38a8732f236e8f3e993775f0a68b7126a67e3c",
+      "address": "0xdc38a8732f236e8F3E993775F0a68b7126a67e3C",
       "symbol": "DSME",
       "name": "Meta-StarDream Along RainBow",
       "decimals":18,
-      "logoURI": "https://assets.dsme.world/token-info/heco/0xdc38a8732f236e8f3e993775f0a68b7126a67e3c/logo.png",
+      "logoURI": "https://assets.dsme.world/token-info/heco/0xdc38a8732f236e8F3E993775F0a68b7126a67e3C/logo.png",
       "tags": [
-        "dsme"
+        "dsmeworld"
+      ]
+    },
+    {
+      "chainId": 128,
+      "address": "0x69235b15Df012EE671467aaF81b676Cf0628F927",
+      "symbol": "DBTC",
+      "name": "DsmeWorld BTC",
+      "decimals":18,
+      "logoURI": "https://assets.dsme.world/token-info/heco/0x69235b15Df012EE671467aaF81b676Cf0628F927/logo.png",
+      "tags": [
+        "dsmeworld"
       ]
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 14
+    "patch": 15
   }
 }
